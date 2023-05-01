@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Zowie Tao](https://www.linkedin.com/in/aakash9868sinha/) !
+## Hey 👋, I'm [Jane Wang](https://www.linkedin.com/in/) !
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -26,8 +26,7 @@
       src="https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-square&labelColor=1D9BF0&logo=Twitter&logoColor=white&link=LINK-DO-SEU-Twitter"
   /></a>
 
-  <!-- <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a> -->
+
 </p>
 
 ### 🦄 Languages
